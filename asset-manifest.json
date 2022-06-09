@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mutoch.github.io/csb-qolcwl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mutoch.github.io/csb-qolcwl/static/js/main.a670189d.chunk.js",
+    "main.js.map": "https://mutoch.github.io/csb-qolcwl/static/js/main.a670189d.chunk.js.map",
+    "runtime-main.js": "https://mutoch.github.io/csb-qolcwl/static/js/runtime-main.65d7dbcb.js",
+    "runtime-main.js.map": "https://mutoch.github.io/csb-qolcwl/static/js/runtime-main.65d7dbcb.js.map",
+    "static/js/2.9b699d2a.chunk.js": "https://mutoch.github.io/csb-qolcwl/static/js/2.9b699d2a.chunk.js",
+    "static/js/2.9b699d2a.chunk.js.map": "https://mutoch.github.io/csb-qolcwl/static/js/2.9b699d2a.chunk.js.map",
+    "index.html": "https://mutoch.github.io/csb-qolcwl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mutoch.github.io/csb-qolcwl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9b699d2a.chunk.js.LICENSE.txt": "https://mutoch.github.io/csb-qolcwl/static/js/2.9b699d2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65d7dbcb.js",
+    "static/js/2.9b699d2a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a670189d.chunk.js"
+  ]
+}
